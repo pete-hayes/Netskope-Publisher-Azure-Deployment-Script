@@ -5,7 +5,7 @@ A lightweight `cloud-init` configuration that enables zero-touch, secure registr
 1. Follow Netskope's [instructions](https://docs.netskope.com/en/create-a-new-publisher#configure-a-publisher-in-azure) for deploying the Publisher within Azure, and pause before creating the virtual machine.
 2. Navigate to the **Advanced** section
 3. Copy the contents of [azure-publisher-custom-data.yaml](azure-publisher-custom-data.yaml) into the **Custom data** field
-4. Replace `<token>` with a Netskope Publisher token generated within your Netskope Administrator Portal.
+4. Replace `<token>` with a Netskope Publisher token generated within your Netskope Administrator Portal
 5. Complete the remaining steps per Netskope's documentation and click **Create**
 
 <p align="center">
