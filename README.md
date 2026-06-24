@@ -8,6 +8,10 @@ A lightweight `cloud-init` configuration that enables zero-touch, secure registr
 4. Replace `<token>` with a Netskope Publisher token generated within your Netskope Administrator Portal.
 5. Complete the remaining steps per Netskope's documentation and click **Create**
 
+<p align="center">
+<img width="50%" height="50%" alt="Publisher-Deployment-Script" src="https://github.com/user-attachments/assets/00056fb0-e19a-4099-abcd-a326c6fe6509" />
+</p>
+
 ## License
 Licensed under MIT — free to use, modify, and share, with no warranty.
 
