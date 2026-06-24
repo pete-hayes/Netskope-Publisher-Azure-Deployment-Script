@@ -1,1 +1,1 @@
-# Netskope-Publisher-Azure-Deployment-Script
+# Netskope Publisher Azure Deployment Script
